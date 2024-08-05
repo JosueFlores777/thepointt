@@ -45,14 +45,13 @@ a {
 }
 
 .btn-outline-secondary {
-    background-color: #DEE9FB;
+   
     color: #273B80;
     border-color: #273B80;
 }
 
 .btn-outline-secondary:hover {
     background-color: #273B80;
-    color: #DEE9FB;
     border-color: #273B80;
 }
 
